@@ -1,2 +1,1 @@
-# oss2020 - githubTest
-##  GitHub Test
+# pyShooting Game
